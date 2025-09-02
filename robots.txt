@@ -1,6 +1,2 @@
 User-agent: *
-Allow: /index.php$
-Allow: /$
 Disallow: /
-Disallow: /db/*
-Disallow: /cgi-bin/*
